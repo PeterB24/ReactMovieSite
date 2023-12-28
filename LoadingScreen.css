@@ -1,0 +1,9 @@
+.loader-container {
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    background: rgba(0, 0, 0, 0.834)
+        url("https://giphy.com/gifs/game-icon-loading-N256GFy1u6M6Y") center
+        no-repeat;
+    z-index: 1;
+}
